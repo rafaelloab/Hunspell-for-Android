@@ -1,0 +1,1 @@
+copy this folder and its content to the root of the device's sdcard.
